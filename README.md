@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Ziad Helmy | Frontend Developer | Backend & Cybersecurity Enthusiast
+# 👨🏻‍💻 Ziad Helmy | Frontend Developer | Backend & Cybersecurity engineer
 
 <p align="center">
 

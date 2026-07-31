@@ -1,127 +1,214 @@
-<div align="center">
+# 👨🏻‍💻 Ziad Helmy | Frontend Developer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
-# 👋 Hi, I'm Ziad Helmy
-
-### 🚀 Frontend Developer | React.js Developer | cyber security | ai reasearcher | graphic designer
-
-Building modern, responsive, and user-friendly web applications.
-
-<br>
+<p align="center">
 
 <a href="https://github.com/ziadhelmy0">
-<img src="https://komarev.com/ghpvc/?username=ziadhelmy0&style=flat&color=blue&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="mailto:ziadhelmy550@gmail.com">
-<img src="https://img.shields.io/badge/Email-ziadhelmy550%40gmail.com-red?style=flat&logo=gmail"/>
+<img src="https://img.shields.io/github/followers/ziadhelmy0?label=Follow&style=social">
 </a>
 
 <a href="https://www.linkedin.com/in/ziad-helmy-609577331">
-<img src="https://img.shields.io/badge/LinkedIn-Ziad%20Helmy-blue?style=flat&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ziad%20Helmy-blue?style=social&logo=linkedin">
 </a>
+
+<a href="mailto:ziadhelmy550@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=social&logo=gmail">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ziadhelmy0&color=blue&style=flat">
+
+</p>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%">
 
 </div>
 
----
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 💻 Frontend Developer passionate about building clean and scalable web applications.
-- ⚛️ Currently focusing on **React.js** and modern frontend technologies.
-- 🎨 Interested in UI/UX, responsive design, and creating smooth user experiences.
-- 🚀 Always learning new technologies and improving my development skills.
-- 📂 Building projects to improve my portfolio and coding experience.
+Hello! I'm **Ziad Helmy**, a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
----
+I enjoy turning ideas into real products using clean code, reusable components, and modern frontend technologies.
 
-## 🛠️ Technologies & Tools
+- 💻 Frontend Developer
+- ⚛️ React.js Developer
+- 🎨 Interested in UI/UX and modern web design
+- 🚀 Always learning and improving my development skills
+- 🏗️ Building projects to improve my portfolio
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### Programming
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Technologies & Tools
 
-### 🔹 DevLinks Profile App
-A responsive link-sharing application built with HTML, CSS, and JavaScript.
 
-### 🔹 Task Management App
-A Kanban-style task management application with modern UI.
+## Frontend Development
 
-### 🔹 Notes Application
-A simple and efficient notes app using JavaScript and local storage.
+<p>
 
-### 🔹 React Projects
-Building modern React applications using components, hooks, and reusable architecture.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+</p>
+
+
+## Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+</p>
+
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
 
-- React.js Advanced Concepts
+
+## 🔗 DevLinks Profile App
+
+A modern link-sharing application that allows users to create and customize their profile links.
+
+**Built With:**
+
+HTML • CSS • JavaScript
+
+
+---
+
+## 📋 Task Management App
+
+A responsive task management application inspired by Kanban boards.
+
+Features:
+
+- Task creation
+- Task organization
+- Modern UI
+- Responsive design
+
+
+**Built With:**
+
+HTML • CSS • JavaScript
+
+
+---
+
+## 📝 Notes Application
+
+A simple notes management application using JavaScript and browser storage.
+
+Features:
+
+- Create notes
+- Delete notes
+- Save data locally
+
+
+**Built With:**
+
+JavaScript • Local Storage
+
+
+---
+
+## ⚛️ React Applications
+
+Building modern React applications using:
+
+- Components
+- React Hooks
+- React Router
+- Reusable UI
+
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React.js
 - Frontend Architecture
-- APIs Integration
+- API Integration
 - Performance Optimization
-- Modern JavaScript Patterns
+- Clean Code Principles
+
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziadhelmy0&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ziadhelmy0&show_icons=true&theme=tokyonight">
+
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhelmy0&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhelmy0&layout=compact&theme=tokyonight">
+
 
 </div>
 
+
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
+
 
 <div align="center">
+
 
 <a href="https://www.linkedin.com/in/ziad-helmy-609577331">
+
 <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Helmy-blue?style=for-the-badge&logo=linkedin">
+
 </a>
+
 
 <a href="mailto:ziadhelmy550@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+
+<img src="https://img.shields.io/badge/Gmail-ziadhelmy550%40gmail.com-red?style=for-the-badge&logo=gmail">
+
 </a>
 
+
 <a href="https://github.com/ziadhelmy0">
+
 <img src="https://img.shields.io/badge/GitHub-ziadhelmy0-black?style=for-the-badge&logo=github">
+
 </a>
+
 
 </div>
 
----
+
+<br>
+
 
 <div align="center">
 
-### 💡 "Code, Learn, Build, Repeat 🚀"
+### 🚀 Code • Create • Improve
 
 </div>

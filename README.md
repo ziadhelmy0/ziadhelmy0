@@ -13,8 +13,6 @@ These are some of the technologies that I work with:
 <img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"> |
 <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"> |
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> |
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> |
-<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"> |
 <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 
 |--|--|--|--|--|
@@ -32,7 +30,9 @@ These are some of the technologies that I work with:
 **Backend**
 
 <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"> |
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png">
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png">|
+<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"> |
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> |
 
 |--|--|
 

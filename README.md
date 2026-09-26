@@ -14,7 +14,7 @@ These are some of the technologies that I work with:
 <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"> |
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> |
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> |
-<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png">
+<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"> |
 <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 
 |--|--|--|--|--|

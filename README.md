@@ -15,7 +15,7 @@ These are some of the technologies that I work with:
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> |
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> |
 <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png">
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 
 |--|--|--|--|--|
 

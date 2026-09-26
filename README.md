@@ -24,6 +24,7 @@ These are some of the technologies that I work with:
 <img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"> |
 <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"> |
 <img title="Sass" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png">
+<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">
 
 |--|--|--|--|--|
 
